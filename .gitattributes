@@ -2,3 +2,5 @@
 docker-run text eol=lf
 gherkin text eol=lf
 gherkin-generate-tokens text eol=lf
+**/gherkin/* linguist-vendored
+**/gherkin-generate-tokens/* linguist-vendored
