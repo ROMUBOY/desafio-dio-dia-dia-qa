@@ -1,6 +1,2 @@
-*.sh text eol=lf
-docker-run text eol=lf
-gherkin text eol=lf
-gherkin-generate-tokens text eol=lf
-**/gherkin/* linguist-vendored
-**/gherkin-generate-tokens/* linguist-vendored
+# Auto detect text files and perform LF normalization
+* text=auto
